@@ -12,6 +12,7 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 classes/
+*.sublime-*
 ._*
 *.jar
 release-local.sh
